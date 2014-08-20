@@ -1,5 +1,9 @@
 ASDFG
 
+<<<<<<< Updated upstream
 MEGA MEGA MEGA MEGA
 
 
+=======
+OOOOSH
+>>>>>>> Stashed changes
